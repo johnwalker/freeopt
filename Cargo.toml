@@ -1,0 +1,5 @@
+[package]
+
+name = "freeopt"
+version = "0.0.1"
+authors = ["John Walker <john.lou.walker@gmail.com>"]
